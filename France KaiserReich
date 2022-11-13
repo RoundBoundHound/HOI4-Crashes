@@ -1,0 +1,537 @@
+[12:20:51][persistent.cpp:48]: Error: "Unexpected token: replace_patch, near line: 3" in file: "mod/ugc_2730477961.mod" near line: 3
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "amphibious_mechanized_idle_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "amphibious_mechanized_moving_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "amphibious_mechanized_amphibiouis_moving_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "amphibious_mechanized_attack_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "amphibious_mechanized_amphibious_attack_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "ENG_amphibious_mechanized_idle_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "ENG_amphibious_mechanized_moving_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "ENG_amphibious_mechanized_amphibious_moving_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "GER_amphibious_mechanized_idle_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "GER_amphibious_mechanized_moving_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "GER_amphibious_mechanized_amphibious_moving_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "SOV_amphibious_armor_idle_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "SOV_amphibious_armor_moving_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "SOV_amphibious_armor_amphibious_moving_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "SOV_amphibious_armor_attack_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "SOV_amphibious_armor_amphibious_attack_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "USA_amphibious_mechanized_idle_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "USA_amphibious_mechanized_moving_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "USA_amphibious_mechanized_amphibious_moving_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "USA_amphibious_mechanized_attack_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "USA_amphibious_mechanized_amphibious_attack_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "JAP_amphibious_armor_idle_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "JAP_amphibious_armor_moving_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "JAP_amphibious_armor_amphibious_moving_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "JAP_amphibious_armor_attack_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "JAP_amphibious_armor_amphibious_attack_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "JAP_amphibious_mechanized_idle_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "JAP_amphibious_mechanized_moving_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "JAP_amphibious_mechanized_amphibious_moving_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "JAP_amphibious_mechanized_attack_animation"... Make sure it is declared in a .asset file.
+[12:22:26][pdxmeshtype.cpp:596]: Failed to find animation: "JAP_amphibious_mechanized_amphibious_attack_animation"... Make sure it is declared in a .asset file.
+[12:22:27][pdxmeshtype.cpp:152]: Could not find mesh file gfx/models/units/tanks/ENG_amphibious_mechanized_terrapin.mesh for ENG_amphibious_mechanized_mesh, switching to gfx/models/test_object.mesh
+[12:22:29][pdxmeshtype.cpp:152]: Could not find mesh file gfx/models/units/tanks/GER_amphibious_mechanized_land_wasser_schlepper.mesh for GER_amphibious_mechanized_mesh, switching to gfx/models/test_object.mesh
+[12:22:29][pdxmeshtype.cpp:152]: Could not find mesh file gfx/models/units/tanks/JAP_amphibious_armor_type_3_ka_chi.mesh for JAP_amphibious_armor_mesh, switching to gfx/models/test_object.mesh
+[12:22:30][pdxmeshtype.cpp:152]: Could not find mesh file gfx/models/units/tanks/USA_amphibious_mechanized_lvt2.mesh for USA_amphibious_mechanized_mesh, switching to gfx/models/test_object.mesh
+[12:22:30][pdxmeshtype.cpp:152]: Could not find mesh file gfx/models/units/tanks/JAP_amphibious_mechanized_type_4_ka_tsu.mesh for JAP_amphibious_mechanized_mesh, switching to gfx/models/test_object.mesh
+[12:22:30][pdxmeshtype.cpp:152]: Could not find mesh file gfx/models/units/tanks/SOV_amphibious_armor_t40.mesh for SOV_amphibious_armor_mesh, switching to gfx/models/test_object.mesh
+[12:22:30][pdxmeshtype.cpp:152]: Could not find mesh file gfx/models/units/tanks/generic_amphibious_mechanized_lvt1.mesh for generic_amphibious_mechanized_mesh, switching to gfx/models/test_object.mesh
+[12:22:31][pdx_entity.cpp:2114]: Couldn't find mesh "ENG_armored_car_1_mesh" (or ENG_armored_car_1_mesh is not of 'pdxmesh' type) [ENG_armored_car_0_entity]
+[12:22:31][pdx_entity.cpp:2114]: Couldn't find mesh "ENG_armored_car_3_mesh" (or ENG_armored_car_3_mesh is not of 'pdxmesh' type) [ENG_armored_car_1_entity]
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "ENG_armored_car_1_mesh" (or ENG_armored_car_1_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "ENG_armored_car_3_mesh" (or ENG_armored_car_3_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "ENG_armored_car_1_mesh" (or ENG_armored_car_1_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "ENG_armored_car_3_mesh" (or ENG_armored_car_3_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "ENG_armored_car_1_mesh" (or ENG_armored_car_1_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "ENG_armored_car_3_mesh" (or ENG_armored_car_3_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "ENG_armored_car_1_mesh" (or ENG_armored_car_1_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "ENG_armored_car_3_mesh" (or ENG_armored_car_3_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2114]: Couldn't find mesh "FRA_armored_car_1_mesh" (or FRA_armored_car_1_mesh is not of 'pdxmesh' type) [FRA_armored_car_0_entity]
+[12:22:31][pdx_entity.cpp:2114]: Couldn't find mesh "FRA_armored_car_3_mesh" (or FRA_armored_car_3_mesh is not of 'pdxmesh' type) [FRA_armored_car_1_entity]
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "FRA_armored_car_1_mesh" (or FRA_armored_car_1_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "FRA_armored_car_3_mesh" (or FRA_armored_car_3_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2114]: Couldn't find mesh "generic_armored_car_1_mesh" (or generic_armored_car_1_mesh is not of 'pdxmesh' type) [armored_car_0_entity]
+[12:22:31][pdx_entity.cpp:2114]: Couldn't find mesh "generic_armored_car_3_mesh" (or generic_armored_car_3_mesh is not of 'pdxmesh' type) [armored_car_1_entity]
+[12:22:31][pdx_entity.cpp:2114]: Couldn't find mesh "GER_armored_car_1_mesh" (or GER_armored_car_1_mesh is not of 'pdxmesh' type) [GER_armored_car_0_entity]
+[12:22:31][pdx_entity.cpp:2114]: Couldn't find mesh "GER_armored_car_3_mesh" (or GER_armored_car_3_mesh is not of 'pdxmesh' type) [GER_armored_car_1_entity]
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "GER_armored_car_1_mesh" (or GER_armored_car_1_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "GER_armored_car_3_mesh" (or GER_armored_car_3_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "GER_armored_car_1_mesh" (or GER_armored_car_1_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "GER_armored_car_3_mesh" (or GER_armored_car_3_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "GER_armored_car_1_mesh" (or GER_armored_car_1_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "GER_armored_car_3_mesh" (or GER_armored_car_3_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "GER_armored_car_1_mesh" (or GER_armored_car_1_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "GER_armored_car_3_mesh" (or GER_armored_car_3_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "GER_armored_car_1_mesh" (or GER_armored_car_1_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "GER_armored_car_3_mesh" (or GER_armored_car_3_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "GER_armored_car_1_mesh" (or GER_armored_car_1_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "GER_armored_car_3_mesh" (or GER_armored_car_3_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2114]: Couldn't find mesh "ITA_armored_car_1_mesh" (or ITA_armored_car_1_mesh is not of 'pdxmesh' type) [ITA_armored_car_0_entity]
+[12:22:31][pdx_entity.cpp:2114]: Couldn't find mesh "ITA_armored_car_3_mesh" (or ITA_armored_car_3_mesh is not of 'pdxmesh' type) [ITA_armored_car_1_entity]
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "ITA_armored_car_1_mesh" (or ITA_armored_car_1_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "ITA_armored_car_3_mesh" (or ITA_armored_car_3_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "ITA_armored_car_1_mesh" (or ITA_armored_car_1_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "ITA_armored_car_3_mesh" (or ITA_armored_car_3_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "ITA_armored_car_1_mesh" (or ITA_armored_car_1_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "ITA_armored_car_3_mesh" (or ITA_armored_car_3_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "ITA_armored_car_1_mesh" (or ITA_armored_car_1_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "ITA_armored_car_3_mesh" (or ITA_armored_car_3_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2114]: Couldn't find mesh "JAP_armored_car_1_mesh" (or JAP_armored_car_1_mesh is not of 'pdxmesh' type) [JAP_armored_car_0_entity]
+[12:22:31][pdx_entity.cpp:2114]: Couldn't find mesh "JAP_armored_car_3_mesh" (or JAP_armored_car_3_mesh is not of 'pdxmesh' type) [JAP_armored_car_1_entity]
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "JAP_armored_car_1_mesh" (or JAP_armored_car_1_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "JAP_armored_car_3_mesh" (or JAP_armored_car_3_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2114]: Couldn't find mesh "SOV_armored_car_1_mesh" (or SOV_armored_car_1_mesh is not of 'pdxmesh' type) [SOV_armored_car_0_entity]
+[12:22:31][pdx_entity.cpp:2114]: Couldn't find mesh "SOV_armored_car_3_mesh" (or SOV_armored_car_3_mesh is not of 'pdxmesh' type) [SOV_armored_car_1_entity]
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "SOV_armored_car_1_mesh" (or SOV_armored_car_1_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "SOV_armored_car_3_mesh" (or SOV_armored_car_3_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2114]: Couldn't find mesh "USA_armored_car_1_mesh" (or USA_armored_car_1_mesh is not of 'pdxmesh' type) [USA_armored_car_0_entity]
+[12:22:31][pdx_entity.cpp:2114]: Couldn't find mesh "USA_armored_car_3_mesh" (or USA_armored_car_3_mesh is not of 'pdxmesh' type) [USA_armored_car_1_entity]
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "USA_armored_car_1_mesh" (or USA_armored_car_1_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "USA_armored_car_3_mesh" (or USA_armored_car_3_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "USA_armored_car_1_mesh" (or USA_armored_car_1_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "USA_armored_car_3_mesh" (or USA_armored_car_3_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "USA_armored_car_1_mesh" (or USA_armored_car_1_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "USA_armored_car_3_mesh" (or USA_armored_car_3_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "USA_armored_car_1_mesh" (or USA_armored_car_1_mesh is not of 'pdxmesh' type)
+[12:22:31][pdx_entity.cpp:2254]: Couldn't find mesh "USA_armored_car_3_mesh" (or USA_armored_car_3_mesh is not of 'pdxmesh' type)
+[12:25:48][parser.cpp:932]: Error: unexpected token in file: "save games/RUS_1936_01_31_01.hoi4" near line: 1 ( player )
+[12:25:48][parser.cpp:932]: Error: unexpected token in file: "save games/RUS_1936_01_31_01.hoi4" near line: 1 (  )
+[12:25:49][parser.cpp:932]: Error: unexpected token in file: "save games/RUS_1936_01_31_01.hoi4" near line: 1 ( player )
+[12:25:49][parser.cpp:932]: Error: unexpected token in file: "save games/RUS_1936_01_31_01.hoi4" near line: 1 (  )
+[12:26:37][containerwindow.cpp:858]: interface/countrydoctrinetreeview.gui (line 2 ): Could not find "naval_folder" in window countrydoctrineview
+[12:26:37][containerwindow.cpp:858]: interface/countrydoctrinetreeview.gui (line 2 ): Could not find "armour_folder" in window countrydoctrineview
+[12:26:37][containerwindow.cpp:858]: interface/countrydoctrinetreeview.gui (line 2 ): Could not find "air_techs_folder" in window countrydoctrineview
+[12:26:45][graphics.cpp:1290]: No font with name 
+[12:26:45][graphics.cpp:1290]: No font with name 
+[12:26:45][graphics.cpp:1290]: No font with name 
+[12:26:45][graphics.cpp:1290]: No font with name 
+[12:26:45][graphics.cpp:1290]: No font with name 
+[12:26:45][graphics.cpp:1290]: No font with name 
+[12:26:45][graphics.cpp:1290]: No font with name 
+[12:38:12][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:38:12][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:38:12][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:38:16][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:38:16][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:38:16][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:39:00][parser.cpp:932]: Error: unexpected token in file: "save games/RUS_1936_01_31_01.hoi4" near line: 1 ( player )
+[12:39:00][parser.cpp:932]: Error: unexpected token in file: "save games/RUS_1936_01_31_01.hoi4" near line: 1 (  )
+[12:39:30][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:40:32][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:41:14][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:41:14][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:41:14][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:41:17][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:41:17][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:41:17][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:42:02][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:42:02][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:42:02][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:42:27][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:42:27][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:42:27][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:42:30][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:42:30][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:42:30][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:42:35][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:42:35][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:42:35][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:42:41][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:42:41][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:42:41][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:42:46][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:42:46][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:42:46][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:42:50][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:42:50][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:42:50][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:44:48][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:44:48][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:44:48][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:44:54][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:44:54][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:44:54][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:44:59][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:44:59][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:44:59][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:45:09][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:45:09][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:45:09][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:45:11][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:45:11][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:45:11][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:47:10][texturehandler.cpp:160]: Texture Handler encountered missing texture file: gfx/interface/technologies/fra_scout_plane_2.dds
+[12:47:10][texturehandler.cpp:216]: Couldn't find texture file: 'gfx/interface/technologies/fra_scout_plane_2.dds'
+[12:47:38][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:47:38][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:47:38][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:47:41][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:47:41][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:47:41][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:47:48][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:47:48][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:47:48][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:47:53][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:47:53][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:47:53][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:47:58][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:47:58][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:47:58][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:48:03][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:48:03][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:48:03][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:48:09][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:48:09][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:48:09][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:48:44][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:48:44][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:48:44][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:48:47][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:48:47][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:48:47][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:48:55][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:48:55][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:48:55][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:48:57][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:48:57][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:48:57][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:49:44][triggerimplementation.cpp:15743]: common/scripted_effects/LEC effects (Legation Cities).txt:256: is_ally_with country is not valid
+[12:49:56][containerwindow.cpp:833]: interface/countrytechtreeview.gui(line 3762): Could not find "tech_info_special_description_bottom_margin" in window "statsarea".
+[12:49:56][containerwindow.cpp:777]: interface/countrytechtreeview.gui (line 3684 ): Could not find "researchtime_label" in window unlock_tech_info_window
+[12:51:46][containerwindow.cpp:833]: interface/countrytechtreeview.gui(line 3762): Could not find "tech_info_special_description_bottom_margin" in window "statsarea".
+[12:51:46][containerwindow.cpp:777]: interface/countrytechtreeview.gui (line 3684 ): Could not find "researchtime_label" in window unlock_tech_info_window
+[12:53:02][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:53:02][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:53:02][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:53:19][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:53:19][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:53:19][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:54:30][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:54:30][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:54:30][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:54:33][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_idea_HOL_wilhelmina]
+[12:54:36][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_idea_HOL_wilhelmina]
+[12:55:19][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:55:19][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:55:19][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:56:02][character.cpp:1099]: common/scripted_effects/SIA effects (Siam).txt:53: set_nationality: Prayoon Yutthasartkosol already has an advisor role with slot type high_command
+[12:56:02][character.cpp:1099]: common/scripted_effects/SIA effects (Siam).txt:53: set_nationality: Prayoon Yutthasartkosol already has an advisor role with slot type theorist
+[12:56:02][character.cpp:1099]: common/scripted_effects/SIA effects (Siam).txt:55: set_nationality: Jerm Arwuth already has an advisor role with slot type political_advisor
+[12:56:02][character.cpp:1099]: common/scripted_effects/SIA effects (Siam).txt:56: set_nationality: Jira Wichitsongkhram already has an advisor role with slot type political_advisor
+[12:56:07][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:56:07][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:56:07][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:56:22][containerwindow.cpp:833]: interface/countrytechtreeview.gui(line 3762): Could not find "tech_info_special_description_bottom_margin" in window "statsarea".
+[12:56:22][containerwindow.cpp:777]: interface/countrytechtreeview.gui (line 3684 ): Could not find "researchtime_label" in window unlock_tech_info_window
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:09][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[12:57:29][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_navalcombat_air_icon_fighter_equipment]
+[12:59:10][containerwindow.cpp:833]: interface/countrytechtreeview.gui(line 3762): Could not find "tech_info_special_description_bottom_margin" in window "statsarea".
+[12:59:10][containerwindow.cpp:777]: interface/countrytechtreeview.gui (line 3684 ): Could not find "researchtime_label" in window unlock_tech_info_window
+[12:59:17][containerwindow.cpp:833]: interface/countrytechtreeview.gui(line 3762): Could not find "tech_info_special_description_bottom_margin" in window "statsarea".
+[12:59:17][containerwindow.cpp:777]: interface/countrytechtreeview.gui (line 3684 ): Could not find "researchtime_label" in window unlock_tech_info_window
+[12:59:40][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:59:40][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:59:40][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:59:43][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:59:43][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[12:59:43][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:00:00][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:00:00][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:00:00][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:00:04][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:00:04][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:00:04][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:00:13][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:00:13][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:00:13][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:00:37][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:00:37][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:00:37][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:00:46][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:00:46][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:00:46][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:01:06][containerwindow.cpp:833]: interface/countrytechtreeview.gui(line 3762): Could not find "tech_info_special_description_bottom_margin" in window "statsarea".
+[13:01:06][containerwindow.cpp:777]: interface/countrytechtreeview.gui (line 3684 ): Could not find "researchtime_label" in window unlock_tech_info_window
+[13:01:09][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:01:09][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:01:09][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:01:33][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:01:33][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:01:33][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:01:53][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:01:53][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:01:53][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:01:57][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:01:57][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:01:57][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:02:06][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:02:06][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:02:06][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:02:12][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:02:12][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:02:12][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:02:30][containerwindow.cpp:833]: interface/countrytechtreeview.gui(line 3762): Could not find "tech_info_special_description_bottom_margin" in window "statsarea".
+[13:02:30][containerwindow.cpp:777]: interface/countrytechtreeview.gui (line 3684 ): Could not find "researchtime_label" in window unlock_tech_info_window
+[13:04:30][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:04:30][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:04:30][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:04:38][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:04:56][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:04:56][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:04:56][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:05:07][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:05:07][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:05:07][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:06:05][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:06:05][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:06:05][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:06:16][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:06:16][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:06:16][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:06:20][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:06:20][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:06:20][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:06:28][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:06:28][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:06:28][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:06:54][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:06:54][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:06:54][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:06:58][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:06:58][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:06:58][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:07:12][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:07:12][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:07:12][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:07:16][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:07:16][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:07:16][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:07:25][containerwindow.cpp:833]: interface/countrytechtreeview.gui(line 3762): Could not find "tech_info_special_description_bottom_margin" in window "statsarea".
+[13:07:25][containerwindow.cpp:777]: interface/countrytechtreeview.gui (line 3684 ): Could not find "researchtime_label" in window unlock_tech_info_window
+[13:07:29][containerwindow.cpp:833]: interface/countrytechtreeview.gui(line 3762): Could not find "tech_info_special_description_bottom_margin" in window "statsarea".
+[13:07:29][containerwindow.cpp:777]: interface/countrytechtreeview.gui (line 3684 ): Could not find "researchtime_label" in window unlock_tech_info_window
+[13:09:11][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:09:11][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:09:11][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:22][triggerimplementation.cpp:15743]: common/scripted_triggers/AI_scripted_triggers.txt:174: is_ally_with country is not valid
+[13:10:28][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:10:28][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:10:28][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:10:41][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:10:41][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:10:41][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:10:48][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:10:48][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:10:48][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:10:51][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:10:51][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:10:51][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:11:09][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:11:09][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:11:09][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:11:37][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:11:37][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:11:37][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:11:39][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:11:39][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:11:39][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:12:02][character.cpp:1099]: common/scripted_effects/SIA effects (Siam).txt:53: set_nationality: Prayoon Yutthasartkosol already has an advisor role with slot type high_command
+[13:12:02][character.cpp:1099]: common/scripted_effects/SIA effects (Siam).txt:53: set_nationality: Prayoon Yutthasartkosol already has an advisor role with slot type theorist
+[13:12:02][character.cpp:1099]: common/scripted_effects/SIA effects (Siam).txt:55: set_nationality: Jerm Arwuth already has an advisor role with slot type political_advisor
+[13:12:02][character.cpp:1099]: common/scripted_effects/SIA effects (Siam).txt:56: set_nationality: Jira Wichitsongkhram already has an advisor role with slot type political_advisor
+[13:12:23][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:12:23][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:12:23][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:13:00][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:13:00][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:13:00][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:13:05][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:13:05][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
+[13:13:05][pdx_audio.cpp:1039]: Missing sound effect: command_power_ability_over
